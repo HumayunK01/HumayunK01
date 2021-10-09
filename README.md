@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HumayunK01
 - 👀 I’m interested in Coding and Artificial Intelligence
-- 🌱 I’m currently learning html, css and java
+- 🌱 I’m currently learning html5, CSS, JAVA and ReactJS
 - 📫 How to reach me Email-humayunk.pvt@gmail.com
 
 <!---
