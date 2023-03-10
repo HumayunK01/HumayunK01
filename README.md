@@ -76,6 +76,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SohailMulla">
+    <img src="https://komarev.com/ghpvc/?username=HumayunK01">
 </a>
-<a href="https://github.com/SohailMulla?tab=followers"><img src="https://img.shields.io/github/followers/SohailMulla?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/HumayunK01?tab=followers"><img src="https://img.shields.io/github/followers/SohailMulla?label=Followers&style=social" alt="GitHub Badge"></a>
