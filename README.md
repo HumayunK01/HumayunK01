@@ -25,6 +25,8 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/color/48/null/android-studio"/> </a>
+    <a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"/> </a>
+    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/dusk/64/null/php-logo.png"/> </a>
 </p>
 
 <p align="center">
