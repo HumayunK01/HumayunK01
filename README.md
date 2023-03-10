@@ -31,7 +31,7 @@
 
 <p align="center">
     <a href="https://github.com/HumayunnK01/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Humayun Khan's streak" src="https://streak-stats.demolab.com?user=HumayunK01&theme=highcontrast&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&type=png"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Humayun Khan's streak" src="https://streak-stats.demolab.com?user=HumayunK01&theme=gruvbox-duo&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
 </p>
 
