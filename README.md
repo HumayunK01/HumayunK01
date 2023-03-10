@@ -43,11 +43,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/HumayunK01/github-readme-activity-graph"><img alt="Humayun Khan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HumayunK01&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
 ## Connect with me:
 <p align="left">
 
