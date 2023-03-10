@@ -1,6 +1,6 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Humayun Khan.</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Humayun Khan.</h1>
 <h3 align="center">I'm a beginner Developer from India.</h3>
 
 
@@ -27,7 +27,7 @@
 
 <p align="center">
     <a href="https://github.com/HumayunnK01/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Humayun Khan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SohailMulla&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Humayun Khan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HumayunK01&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
