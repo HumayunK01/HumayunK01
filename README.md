@@ -45,12 +45,8 @@
 
 ## Connect with me:
 <p align="left">
-
-<!-- <a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> -->
 <a href = "[https://twitter.com/_mulla_sohail](https://www.linkedin.com/in/humayun-k-b7943121b/)"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/mulla_sohail_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
-
+<a href = "[https://www.instagram.com/mulla_sohail_/](https://www.instagram.com/idkhumayun/)"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
 ## ❤ Views and Followers
