@@ -1,63 +1,24 @@
-<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Humayun Khan.</h1>
-<h3 align="center">I'm a beginner Developer from India.</h3>
+# 💫 About Me:
+🌱 I’m currently learning Full Stack Development.<br>👯 I’m looking to collaborate on OpenSource Projects<br>👨‍💻 All of my projects are available at My Portfolio<br>📫 How to reach me humayunk.pvt@gmail.com<br>⚡ Fun fact I play video games and watch anime very often.
 
 
-## 🙋‍♂️ About Me
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/the.humayun) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/humayun-k-b7943121b/) 
 
-- 🌱 I’m currently learning **Full Stack Development.**
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HumayunK01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HumayunK01&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HumayunK01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HumayunK01&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://humayunk01.github.io/portfolio/)**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 📫 How to reach me **humayunk.pvt@gmail.com**
+---
+[![](https://visitcount.itsvg.in/api?id=HumayunK01&icon=0&color=3)](https://visitcount.itsvg.in)
 
-- ⚡ Fun fact **I play video games and watch anime very often.**
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/color/48/null/android-studio"/> </a>
-    <a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"/> </a>
-    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/dusk/64/null/php-logo.png"/> </a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/HumayunnK01/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Humayun Khan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HumayunK01&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-## 📊 My Github Stats
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=HumayunK01&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=HumayunK01&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=HumayunK01&show_icons=true" />
-</picture>
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-<a href = "https://www.linkedin.com/in/humayun-k-b7943121b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/the.humayun/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-</p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=HumayunK01">
-</a>
-<a href="https://github.com/HumayunK01?tab=followers"><img src="https://img.shields.io/github/followers/SohailMulla?label=Followers&style=social" alt="GitHub Badge"></a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
