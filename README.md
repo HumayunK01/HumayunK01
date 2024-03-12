@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Full Stack Development.<br>👯 I’m looking to collaborate on OpenSource Projects<br>👨‍💻 All of my projects are available at: www.devhumayun.vercel.app<br>📫 How to reach me: humayunk.pvt@gmail.com<br>⚡ Fun fact: I play video games and watch anime very often.</p>
+<p align="left">🌱 I’m currently learning Full Stack Development.<br>👯 I’m looking to collaborate on OpenSource Projects<br>👨‍💻 All of my projects are available at: devhumayun.vercel.app<br>📫 How to reach me: humayunk.pvt@gmail.com<br>⚡ Fun fact: I play video games and watch anime very often.</p>
 
 ###
 
