@@ -6,11 +6,6 @@
 
 <h3 align="center">💻 Frontend Developer | Next.js Specialist</h3>
 
-<p align="center">
-  <b>Visitor Count:</b><br>
-  <img src="https://profile-counter.glitch.me/HumayunK01/count.svg" alt="visitor badge" />
-</p>
-
 ---
 
 ### 👨‍🎓 About Me
