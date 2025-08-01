@@ -10,7 +10,7 @@
 
 ### 👨‍🎓 About Me
 
-- 🎓 **BE in Computer Engineering** from *M.H. Saboo Siddik College of Engineering*, Mumbai  
+- 🎓 **BE in Computer Science and Engineering (Internet of Things and Cyber Security including Blockchain Technology)** from *M.H. Saboo Siddik College of Engineering*, Mumbai  
 - 🔍 Actively exploring **Full Stack Development**  
 - 🧠 Always eager to tackle complex problems and dive into new technologies  
 - 📂 All my projects live on [GitHub](https://github.com/HumayunK01)  
