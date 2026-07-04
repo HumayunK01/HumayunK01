@@ -1,83 +1,258 @@
-![Background](https://github.com/user-attachments/assets/fdc7e7d8-ea92-4f9b-a9c2-194210e3351e)
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Humayun+Khan!;" />
-</h1>
+<h1 align="center">👋 Hi, I'm Humayun Khan </h1>
 
-<h3 align="center">💻 Frontend Developer | Next.js Specialist</h3>
-
----
-
-### 👨‍🎓 About Me
-
-- 🎓 **BE in Computer Science and Engineering (Internet of Things and Cyber Security including Blockchain Technology)** from *M.H. Saboo Siddik College of Engineering*, Mumbai  
-- 🔍 Actively exploring **Full Stack Development**  
-- 🧠 Always eager to tackle complex problems and dive into new technologies  
-- 📂 All my projects live on [GitHub](https://github.com/HumayunK01)  
-- 💬 Ask me about: `AI`, `Agents`, `Blockchain`, `NextJS / ReactJS`, and `Web Development`  
-- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/devhumayun/) | [Email](mailto:humayunk.pvt@gmail.com)
-
----
-
-### 🌐 Let's Connect
+<h3 align="center">Frontend Developer • React • Next.js • TypeScript • Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/devhumayun/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:humayunk.pvt@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/HumayunK01" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/humayunk_pvt" target="_blank">
-    <img src="https://img.shields.io/badge/Hackerrank-2EC866?logo=hackerrank&logoColor=white" />
-  </a>
+Building modern, scalable and user-focused web applications with clean UI, performance, and great user experiences.
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/devhumayun/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:humayunk.pvt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://humayun.in/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/humayunk_pvt"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </p>
 
 ---
 
-### 💻 Tech Stack
+# 👨‍💻 About Me
 
-**Languages & Tools:**
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Frontend & Styling:**
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-**Backend & Databases:**
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Dev Tools & Platforms:**
-
-![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+- 🎓 BE Computer Science & Engineering (IoT, Cyber Security & Blockchain)
+- 💻 Frontend Developer specializing in React & Next.js
+- 🚀 Expanding into Full Stack Development
+- 🤖 Exploring AI, AI Agents & Automation
+- 🌱 Passionate about building products that solve real-world problems
+- 💼 Open for Freelance Projects & Collaborations
 
 ---
 
-### 📊 GitHub Stats
+# 🚀 Current Focus
 
-<div align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=HumayunK01&theme=react&show_icons=true&hide_title=false&count_private=true" />
-  <img width="50%" src="https://github-readme-streak-stats-taupe-tau.vercel.app?user=HumayunK01&theme=react" />
-</div>
+- Building production-ready Full Stack applications
+- Creating modern business websites
+- AI-powered web applications
+- Performance optimization
+- System Design fundamentals
+
+---
+
+# 🏆 Achievements
+
+- 🥇 IEEE Digital Poster Competition Winner
+- 🏆 Best Programmer Award 2022-2023
+- 👨‍💻 Former Technical Head — Programmers Club, MHSSCE
+- 🌟 Passionate Builder & Continuous Learner
+
+---
+
+# ⭐ Featured Projects
+
+> A selection of projects showcasing my experience in full-stack development, AI, and modern web technologies.
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 🩺 Foresee
+
+<a href="#">
+<img src="https://github.com/user-attachments/assets/8545012e-b641-4a64-8ab2-1fa13a18d9b1" width="100%">
+</a>
+
+AI-powered healthcare platform for disease diagnosis and outbreak forecasting.
+
+**Next.js • TypeScript • Tailwind • Python**
+
+<a href="https://foreseehealth.vercel.app/">🌐 Live</a> • <a href="https://github.com/HumayunK01/Foresee">💻 Source</a>
+
+</td>
+
+<td width="33%" align="center">
+
+### 🚆 RailCon
+
+<a href="#">
+<img src="https://github.com/user-attachments/assets/c2534afe-5aa2-4fa9-b5c6-3040a7445aee" width="100%">
+</a>
+
+Digital railway concession management platform with streamlined workflows.
+
+**Next.js • React • PostgreSQL • Tailwind**
+
+<a href="https://railcon.vercel.app/">🌐 Live Demo</a>
+
+</td>
+
+<td width="33%" align="center">
+
+### ❤️ PSFoundation
+
+<a href="#">
+<img src="https://github.com/user-attachments/assets/991b3bca-d293-4d4a-b91e-fbb6f74b95e8" width="100%">
+</a>
+
+Modern NGO website focused on donations, outreach, and social impact.
+
+**Next.js • TypeScript • Tailwind**
+
+<a href="https://psfoundationforyou.vercel.app/">🌐 Live Demo</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🍽️ Shahi Durbar
+
+<a href="#">
+<img src="https://github.com/user-attachments/assets/ff107d3d-90c9-4214-a96a-d89c67f9150a" width="100%">
+</a>
+
+Restaurant website with online ordering and premium dining experience.
+
+**React • TypeScript • Tailwind**
+
+<a href="https://shahidurbar.vercel.app/">🌐 Live Demo</a>
+
+</td>
+
+<td align="center">
+
+### 🏨 Asmeera Stays
+
+<a href="#">
+<img src="https://github.com/user-attachments/assets/8879d467-d8fa-4f7b-8f41-c62a9f162387" width="100%">
+</a>
+
+Modern hospitality website with booking experience and elegant UI.
+
+**Next.js • TypeScript • Tailwind**
+
+<a href="https://asmeerastays.vercel.app/">🌐 Live Demo</a>
+
+</td>
+
+<td align="center">
+
+### 💻 Programmers Club
+
+<a href="#">
+<img src="https://github.com/user-attachments/assets/474e4d08-8aad-49e0-b9f2-d7112526a21f" width="100%">
+</a>
+
+Official website for the college coding community and technical events.
+
+**Next.js • TypeScript • Tailwind**
+
+<a href="https://programmersclub.vercel.app/">🌐 Live Demo</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 💻 Tech Stack
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,php&perline=10"/>
+
+---
+
+### ⚛️ Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,bootstrap,materialui,figma&perline=10"/>
+
+---
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,firebase,supabase&perline=10"/>
+
+---
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite&perline=10"/>
+
+---
+
+### 🤖 AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python,flask,tensorflow,pytorch&perline=10"/>
+
+---
+
+### ⛓️ Blockchain
+
+<img src="https://skillicons.dev/icons?i=solidity&perline=10"/>
+
+<p>
+<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ganache-E4A663?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white"/>
+</p>
+
+---
+
+### ☁️ Cloud, DevOps & Hosting
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,netlify,linux,postman,vscode,npm&perline=10"/>
+
+---
+
+### 🎨 Design & Productivity
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai&perline=10"/>
+
+<p>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HumayunK01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=HumayunK01&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HumayunK01&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+---
+
+# 🌎 Connect With Me
+
+<p align="center">
+
+<a href="mailto:humayunk.pvt@gmail.com">📧 Email</a> •
+<a href="https://www.linkedin.com/in/devhumayun/">LinkedIn</a> •
+<a href="https://github.com/HumayunK01">GitHub</a> •
+<a href="https://www.hackerrank.com/humayunk_pvt">HackerRank</a>
+
+</p>
+
+---
+
+<p align="center">
+Thanks for stopping by! ⭐ If you like my work, consider starring a repository.
+</p>
