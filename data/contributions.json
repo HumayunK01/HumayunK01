@@ -1,13 +1,13 @@
 {
   "username": "HumayunK01",
-  "generated_at": "2026-10-24T11:07:24Z",
+  "generated_at": "2026-10-25T11:37:41Z",
   "range": {
-    "start": "2025-10-19",
-    "end": "2026-10-24"
+    "start": "2025-10-26",
+    "end": "2026-10-25"
   },
-  "total_contributions": 1807,
-  "active_days": 203,
-  "avg_per_active_day": 8.9,
+  "total_contributions": 1795,
+  "active_days": 200,
+  "avg_per_active_day": 9.0,
   "current_streak": {
     "length": 19,
     "start": "2026-10-06",
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-10",
-      "total": 35
+      "total": 22
     },
     {
       "month": "2025-11",
@@ -73,45 +73,10 @@
     },
     {
       "month": "2026-10",
-      "total": 176
+      "total": 177
     }
   ],
   "days": [
-    {
-      "date": "2025-10-19",
-      "count": 1,
-      "level": 1
-    },
-    {
-      "date": "2025-10-20",
-      "count": 7,
-      "level": 1
-    },
-    {
-      "date": "2025-10-21",
-      "count": 5,
-      "level": 1
-    },
-    {
-      "date": "2025-10-22",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-23",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-24",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-25",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-10-26",
       "count": 0,
@@ -1929,8 +1894,13 @@
     },
     {
       "date": "2026-10-24",
-      "count": 3,
+      "count": 4,
       "level": 1
+    },
+    {
+      "date": "2026-10-25",
+      "count": 0,
+      "level": 0
     }
   ]
 }
